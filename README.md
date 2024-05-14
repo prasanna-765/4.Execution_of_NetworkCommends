@@ -1,6 +1,6 @@
  4.Execution_of_NetworkCommands
- SWETHA A
- 212223220114
+ PRASANNA A
+ 212223220078
  B.TECH (IT)
  AIM :Use of Network commands in Real Time environment
  Software : Command Prompt And Network Protocol
